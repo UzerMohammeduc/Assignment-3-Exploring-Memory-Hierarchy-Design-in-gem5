@@ -1,0 +1,5 @@
+﻿Tick,DCacheMissRate,ICacheMissRate
+100,0.15,0.1
+200,0.13,0.09
+300,0.12,0.08
+400,0.11,0.07
